@@ -1,0 +1,19 @@
+#form{
+	margin: auto;
+}
+
+.form-label{
+	color: #ffc137;
+}
+
+#logo{
+width: 12%;
+}
+
+p{
+  color: #ffc137; 
+}
+
+.card {
+  border-radius: 1rem;
+}
